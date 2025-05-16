@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
 <h3 align="center">Cybersecurity Enthusiast | Python Developer | Open Source Explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611a682bbee4f143a46cbb78a06938d6a00e6737276&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
