@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
 <h3 align="center">Exploring the Cybersecurity Side of Code 🛡️💻</h3>
 
-<img align="right" alt="Cyber Dev" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 
 ---
 
