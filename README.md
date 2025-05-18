@@ -1,8 +1,7 @@
-![github](https://github.com/user-attachments/assets/f7138643-3d19-4a35-acfd-07da1929aeab)<p align="center">
+![github](https://github.com/user-attachments/assets/f7138643-3d19-4a35-acfd-07da1929aeab)
+
+<p align="center">
   <img src="github.gif" alt="Banner" width="100%" />
-  ![alt text](b13d647b-cd31-439b-9a09-5ddc92587b98.png)
-
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
