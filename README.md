@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="63d00b3d-4d47-49f2-b5ab-858875db3818.png" alt="Banner" />
+![github](https://github.com/user-attachments/assets/f7138643-3d19-4a35-acfd-07da1929aeab)<p align="center">
+  <img src="github.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
