@@ -1,5 +1,3 @@
-![github](https://github.com/user-attachments/assets/f7138643-3d19-4a35-acfd-07da1929aeab)
-
 <p align="center">
   <img src="github.gif" alt="Banner" width="100%" />
 </p>
