@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="github.gif" alt="Banner" width="100%" />
+  <img src="A_GitHub_profile_README_showcases_Krishna_Tripathi.png" alt="Cybersecurity Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Krishna+Tripathi;Cybersecurity+Enthusiast+%7C+Tech+Explorer;Open-Source+Contributor;Problem+Solver+%7C+Programmer;Always+Learning+%26+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Krishna+Tripathi;Cybersecurity+Enthusiast+%7C+Tech+Explorer;Open-Source+Contributor;Problem+Solver+%7C+Programmer;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 - 🎓 B.Tech in Computer Science (**Cyber Security**) at **Dr. A. P. J. Abdul Kalam Technical University**  
 - 💡 Passionate about **Problem Solving, DevOps, and Cyber Security**  
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚡ Skills & Tools
+## ⚡ Skills & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,mysql,vscode,github,docker,aws" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
@@ -130,7 +130,7 @@
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications & Badges  
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/krishnatripathi9" target="_blank">
@@ -146,7 +146,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://x.com/KrishnaTri37551" target="_blank">
