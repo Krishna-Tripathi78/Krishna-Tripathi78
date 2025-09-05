@@ -3,7 +3,7 @@
   <img src="github.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing SVG Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Krishna+Tripathi;Cybersecurity+Enthusiast+%7C+Tech+Explorer;Open-Source+Contributor;Problem+Solver+%7C+Programmer;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
@@ -20,12 +20,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science (Cyber Security) at Dr. A. P. J. Abdul Kalam Technical University  
-- 💡 Passionate about Problem Solving, DevOps, and Cyber Security  
+- 🎓 B.Tech in Computer Science (**Cyber Security**) at **Dr. A. P. J. Abdul Kalam Technical University**  
+- 💡 Passionate about **Problem Solving, DevOps, and Cyber Security**  
 - 🧑‍💻 Skilled in **Python, C++, Git, Linux, SQL**  
 - 🔭 Exploring **Cloud & DevOps Fundamentals**  
-- 🤝 Active in **FOSS United Kanpur | Open Source Community**  
-- 🎯 Goal → To build secure, scalable & impactful software solutions  
+- 🤝 Core Member of **FOSS United Kanpur | Open Source Contributor**  
+- 🎯 Goal → Build secure, scalable & impactful software solutions  
 
 ---
 
@@ -63,14 +63,70 @@
 
 ## 🚀 Featured Projects
 
-🔊 [**MoodMelody** – Chatbot-Based Music Recommender](https://github.com/Krishna-Tripathi78/MoodMelody)  
-→ Uses **NLP & sentiment analysis** to recommend songs based on your mood.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+</p>
 
-🎯 [**YOLOv8 Real-Time Object Detection**](https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection)  
-→ Real-time **computer vision app** powered by YOLOv8.  
+<table align="center" width="100%">
+<tr>
 
-📧 [**Voice Controlled Email Assistant**](https://github.com/Krishna-Tripathi78/Voice-Controlled-Email-Assistant)  
-→ Automates email tasks using **speech recognition & Python**.  
+<!-- Project 1 -->
+<td align="center" width="50%">
+  <a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection">
+    <img src="https://img.shields.io/badge/YOLOv8%20Realtime%20Object%20Detection-FF6EC7?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=radical&hide_border=true" />
+  <br>
+  🎥 A **real-time computer vision app** powered by YOLOv8 for fast and accurate object detection.  
+  <br><br>
+</td>
+
+<!-- Project 2 -->
+<td align="center" width="50%">
+  <a href="https://github.com/Krishna-Tripathi78/MoodMelody">
+    <img src="https://img.shields.io/badge/MoodMelody-NLP%20%7C%20Music%20Recommender-36BCF7?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=radical&hide_border=true" />
+  <br>
+  🔊 **Chatbot-based music recommender** using NLP & sentiment analysis to match songs to your mood.  
+  <br><br>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project 3 -->
+<td align="center" width="50%">
+  <a href="https://github.com/Krishna-Tripathi78/Voice-Controlled-Email-Assistant">
+    <img src="https://img.shields.io/badge/Voice%20Controlled%20Email%20Assistant-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=Voice-Controlled-Email-Assistant&theme=radical&hide_border=true" />
+  <br>
+  📧 Automates **email tasks with speech recognition**, making communication hands-free & efficient.  
+  <br><br>
+</td>
+
+<!-- Project 4 -->
+<td align="center" width="50%">
+  <a href="https://github.com/Krishna-Tripathi78/PhoneSteer">
+    <img src="https://img.shields.io/badge/PhoneSteer-Innovation-purple?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=PhoneSteer&theme=radical&hide_border=true" />
+  <br>
+  📱 Turns your **smartphone into a motion controller & PC input system** for futuristic navigation.  
+  <br><br>
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+</p>
 
 ---
 
