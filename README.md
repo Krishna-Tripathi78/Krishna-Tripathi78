@@ -1,118 +1,112 @@
-=
-- 🤝 Active contributor at **FOSS United & AWS User Group**
-- 🔥 Building real-world scalable systems with modern architectures
-# 🛠️ **Tech Stack — My Digital Arsenal**
+<!-- 🎮 Pixel Hero Banner -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,cpp,git,linux,postgresql,mysql,mongodb,redis,aws,docker,fastapi,flask,opencv,react,vscode,github&perline=8" />
+<img src="https://i.imgur.com/OVw7GkL.gif" width="100%" />
 </p>
 
 
+<h1 align="center">👋 Hey, I'm <strong>Krishna Tripathi</strong></h1>
+<p align="center"><strong>Building Systems • Breaking Limits • Automating Everything</strong></p>
+
+
+---
+
+
+<!-- 🎨 Pixel Art Coding Scene -->
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBseHhmcGZkcjN3bjk0YzZuZ3U5MHF2Zml3aXp5dHViMWI4amVyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
+<img src="https://i.imgur.com/zA7bQv1.gif" width="420px" />
+</p>
+
+
+# 🌟 About Me
+- 🚀 Backend Developer • Cloud • Cybersecurity
+- 🎓 B.Tech in Cyber Security @ AKTU
+- 💼 Speaker → AWS UG Kanpur | FOSS United Kanpur
+- 🧩 300+ DSA Problems • System Design Mindset
+- 🔐 Building secure, scalable, intelligent systems
+- 🛠️ Open Source Contributor | DevOps Explorer
+
+
+---
+
+
+# 🤝 Connect with me
+<p align="center">
+<a href="https://twitter.com/KrishnaTri37551"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+<a href="https://www.linkedin.com/in/krishna-tripathi-9aa494303"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="https://github.com/Krishna-Tripathi78"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+<a href="https://www.youtube.com"><img src="https://skillicons.dev/icons?i=youtube" width="45" /></a>
 </p>
 
 
 ---
 
 
-# 🚀 **Elite Featured Projects (Custom Premium Cards)**
+# 🛠️ Languages & Tools
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4czU2dnY4aDlud2lya3Iwa3l3M3JmbGxnMGwzYm4xcGw0NmQwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4V7H4JkJvZqPu/giphy.gif" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,go,cpp,linux,git,aws,docker,fastapi,flask,redis,postgres,mongodb,vscode,opencv,react" />
 </p>
+
+
+<p align="center">
+<img src="https://i.imgur.com/Ez9pV4F.gif" width="350px" />
+</p>
+
+
+---
+
+
+# 🚀 Featured Pixel Projects (Elite Showcase)
 
 
 <table align="center" width="100%">
+<tr><td align="center">
 
 
-<!-- 1: OptiMSP Agent -->
-<tr><td>
-
-
-### 🔹 **1. OptiMSP Agent** — *Distributed Backend Engine*
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=optimsp-agent&theme=midnight-purple&hide_border=true&border_radius=15" />
-</p>
-✨ *Enterprise MSP automation with async workers, microservices & AWS-ready infra.*
+### 🎯 OptiMSP Agent — Distributed Automation Engine
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=optimsp-agent&theme=react&hide_border=true" />
 
 
 </td></tr>
 
 
-<!-- 2: YOLOv8 -->
-<tr><td>
+<tr><td align="center">
 
 
-### 🔹 **2. YOLOv8 Real-Time Object Detection** — *Computer Vision*
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=midnight-purple&hide_border=true&border_radius=15" />
-</p>
-🎥 *Lightning-fast CV pipeline with multi-object tracking.*
+### 🎯 YOLOv8 Real-Time Object Detection
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=react&hide_border=true" />
 
 
 </td></tr>
 
 
-<!-- 3: MoodMelody -->
-<tr><td>
+<tr><td align="center">
 
 
-### 🔹 **3. MoodMelody — AI Emotion Music Recommender**
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=midnight-purple&hide_border=true&border_radius=15" />
-</p>
-🔊 *AI-powered mood detection using CNN & emotion analysis.*
+### 🎯 MoodMelody — AI Emotion Music Recommender
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=react&hide_border=true" />
 
 
 </td></tr>
 
 
-<!-- 4: Sandbox Malware Analysis -->
-<tr><td>
+<tr><td align="center">
 
 
-### 🔹 **4. Sandbox Malware Analysis — Threat Intelligence Engine**
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=Sandbox-Malware-Analysis&theme=midnight-purple&hide_border=true&border_radius=15" />
-</p>
-🛡️ *Dynamic malware execution & behavioral analysis sandbox.*
+### 🎯 Sandbox Malware Analysis — Threat Intelligence Engine
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=Sandbox-Malware-Analysis&theme=react&hide_border=true" />
 
 
 </td></tr>
-
-
 </table>
 
 
 ---
 
 
-# 🏆 **Achievements — The Journey So Far**
+# 📊 Stats & Activity
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpnNDI3Y3pmbXR6eGExdDg0dnFuZGwxMTNtb3ZoYzB2aHljeHl5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5ndklThG9vUUdTmgMn/giphy.gif" width="400" />
-</p>
-
-
-- 🥇 **SuperHack 2025 — Grand Finale**
-- 🥈 **HackWithUP Finalist 2025**
-- 🎤 **AWS UG Kanpur Speaker** — IAM, Cloud Fundamentals
-- 🎤 **FOSS United Speaker** — Bash for Devs (350+ attendees)
-- 🧠 Solved **300+ DSA Problems**
-- 📜 **AWS Cloud Practitioner Certified (2024)**
-- 🧑‍💻 Contributor @ **FOSS United, AWS UG Kanpur**
-
-
----
-
-
-# 📊 **Analytics & Activity**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 
@@ -124,17 +118,6 @@
 ---
 
 
-# 🌐 **Connect With Me**
 <p align="center">
-<a href="https://x.com/KrishnaTri37551"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-<a href="https://www.linkedin.com/in/krishna-tripathi-9aa494303"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/Krishna-Tripathi78"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
-</p>
-
-
----
-
-
-<p align="center">
-<em>⚡ "Code. Break. Build Again. That's the game." ⚡</em>
+<strong>✨ "Crafting systems that work even when I sleep." ✨</strong>
 </p>
