@@ -1,7 +1,6 @@
-<!-- 🔥 Futuristic Neon Banner -->
----
-
-
+=
+- 🤝 Active contributor at **FOSS United & AWS User Group**
+- 🔥 Building real-world scalable systems with modern architectures
 # 🛠️ **Tech Stack — My Digital Arsenal**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,go,cpp,git,linux,postgresql,mysql,mongodb,redis,aws,docker,fastapi,flask,opencv,react,vscode,github&perline=8" />
@@ -9,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/nH0gT0B.gif" width="500" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBseHhmcGZkcjN3bjk0YzZuZ3U5MHF2Zml3aXp5dHViMWI4amVyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </p>
 
 
@@ -18,7 +17,7 @@
 
 # 🚀 **Elite Featured Projects (Custom Premium Cards)**
 <p align="center">
-<img src="https://i.imgur.com/FDkVc6U.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4czU2dnY4aDlud2lya3Iwa3l3M3JmbGxnMGwzYm4xcGw0NmQwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4V7H4JkJvZqPu/giphy.gif" width="100%" />
 </p>
 
 
@@ -89,7 +88,7 @@
 
 # 🏆 **Achievements — The Journey So Far**
 <p align="center">
-<img src="https://i.imgur.com/Fn0S88c.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpnNDI3Y3pmbXR6eGExdDg0dnFuZGwxMTNtb3ZoYzB2aHljeHl5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5ndklThG9vUUdTmgMn/giphy.gif" width="400" />
 </p>
 
 
