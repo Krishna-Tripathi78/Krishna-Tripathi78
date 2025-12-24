@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Krishna%20Tripathi&fontSize=50&fontColor=00FF00&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00AA00,100:005500&height=200&section=header&text=Krishna%20Tripathi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20DevOps%20Enthusiast%20|%20Open%20Source%20Builder&descAlignY=55&descSize=18"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
-<h3 align="center">Cybersecurity Engineer | DevOps Enthusiast | Open Source Builder</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Tripathi;Cybersecurity+Engineer+%F0%9F%94%92;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Breaking+Systems+to+Secure+Them+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
 </p>
-
----
 
 ## 🟢 TERMINAL IDENTITY
 
