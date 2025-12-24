@@ -1,351 +1,338 @@
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗     ████████╗██████╗ ║
-║   ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗    ╚══██╔══╝██╔══██╗║
-║   █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║       ██║   ██████╔╝║
-║   ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║       ██║   ██╔══██╗║
-║   ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║       ██║   ██║  ██║║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=root@krishna:~%24+whoami;Cybersecurity+Enthusiast+%7C+DevOps+Engineer;Open+Source+Contributor+%7C+Problem+Solver;Building+Secure+%26+Scalable+Solutions;System.out.println(%22Always+Learning%22);" alt="Typing SVG" />
-</p>
-
----
-
-## 📟 SYSTEM_INFO
-
-```bash
-┌──(krishna㉿cybersec)-[~/profile]
-└─$ neofetch
-
-krishna@github
---------------
-OS: Linux Mint (Cybersecurity Edition)
-University: Dr. A.P.J. Abdul Kalam Technical University
-Degree: B.Tech Computer Science (Cyber Security)
-Shell: zsh 5.9
-Expertise: Python, C++, Git, Linux, SQL, Docker, AWS
-Status: FOSS United Kanpur - Core Member
-Mission: Build Secure & Impactful Software
-Uptime: 365 days of coding
-```
-
----
-
-## 🔥 DAILY_COMMIT_STREAK
-
-```bash
-┌──(krishna㉿github)-[~/streak]
-└─$ git log --oneline --graph --decorate
-
-📅 Daily Sign-In Streak Tracker
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krishna-Tripathi78&theme=terminal-green&hide_border=true&border_radius=5&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117" alt="GitHub Streak" />
-</p>
-
-```bash
-🎯 Current Streak: XX Days | 🏆 Longest Streak: XX Days | 📊 Total Contributions: XXX
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## ⚙️ TECH_STACK --verbose
-
-```bash
-┌──(krishna㉿devops)-[~/skills]
-└─$ cat tech_stack.sh
-
-#!/bin/bash
-
-Languages=("Python" "C++" "SQL" "Bash")
-Tools=("Git" "Linux" "Docker" "AWS" "MySQL" "VSCode")
-Domains=("Cybersecurity" "DevOps" "Cloud Computing" "Open Source")
-
-echo "[*] Loading expertise modules..."
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,bash,mysql,docker,aws,vscode,github,vim&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=devops&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Open_Source-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Problem_Solving-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=amazon&logoColor=00FF41" />
-</p>
-
----
-
-## 📊 GITHUB_ANALYTICS --stats
-
-```bash
-┌──(krishna㉿analytics)-[~/stats]
-└─$ python3 github_stats.py --user=Krishna-Tripathi78
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Tripathi78&theme=github_dark" width="98%" />
-</p>
-
-```bash
-[✓] Stats loaded successfully
-[✓] Contribution graph rendered
-[✓] Language analysis complete
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🚀 FEATURED_PROJECTS --showcase
-
-```bash
-┌──(krishna㉿projects)-[~/repositories]
-└─$ ls -la | grep -E "*.featured"
-
-drwxr-xr-x 1 krishna krishna 4096 Dec 24 2025 .
-drwxr-xr-x 1 krishna krishna 4096 Dec 24 2025 ..
-```
-
-### ❤️ TOP PROJECT
-
+<!-- Animated Header -->
 <div align="center">
 
-[![KrivyX Music App](https://img.shields.io/badge/❤️_KrivyX-Music_App-FF1744?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Krishna-Tripathi78/KrivyX---Music-App)
-
-```bash
-┌─[project]─[❤️ FEATURED]
-│
-├─ Name: KrivyX Music App
-├─ Type: Music Streaming Application
-├─ Stack: Modern UI/UX | Music APIs | Real-time Playback
-├─ Features: 🎵 Stream Music | 📱 Cross-platform | 🎨 Beautiful UI
-└─ Status: ⚡ Active Development
+```
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                    ║
+║     ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗     ████████╗██████╗     ║
+║     ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗    ╚══██╔══╝██╔══██╗    ║
+║     █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║       ██║   ██████╔╝    ║
+║     ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║       ██║   ██╔══██╗    ║
+║     ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║       ██║   ██║  ██║    ║
+║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝    ║
+║                                                                                    ║
+║                    ⚡ Cybersecurity Engineer | DevOps Enthusiast ⚡                ║
+║                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=00FF41" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Krishna+Tripathi;Cybersecurity+%7C+DevOps+%7C+Open+Source;Building+Tomorrow's+Secure+Systems" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-### 🔧 OTHER PROJECTS
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<table align="center" width="100%">
-<tr>
+<div align="center">
 
-<td align="center" width="50%">
+## 🖥️ `$ whoami`
+
+</div>
 
 ```bash
-┌─[project]─[🎥 CV]
-├─ YOLOv8 Object Detection
-├─ Real-time Processing
-├─ Computer Vision
-└─ Status: ✓ Complete
+┌─[krishna@cybersec]─[~]
+└──╼ $ cat profile.info
+
+{
+  "name": "Krishna Tripathi",
+  "role": "Cybersecurity Engineer & DevOps Enthusiast",
+  "education": "B.Tech CS (Cyber Security) - Dr. APJ Abdul Kalam Technical University",
+  "location": "Kanpur, India",
+  "interests": ["Security Research", "Cloud Infrastructure", "Open Source", "Problem Solving"],
+  "community": "FOSS United Kanpur - Core Member",
+  "philosophy": "Building secure, scalable & impactful solutions",
+  "status": "Always learning, always building 🚀"
+}
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## 🔥 `$ git log --stat`
+
+### Daily Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true&border_radius=10&card_width=600&fire=00F7F7&ring=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" />
+
+</div>
+
+```bash
+📊 Stats Overview:
+├─ Current Streak: [Live] 🔥
+├─ Longest Streak: [Auto-updating] 💪
+├─ Total Contributions: [Growing daily] 📈
+└─ Consistency: Committed to Excellence ✨
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## ⚡ `$ cat skills.json`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,sql" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,linux,docker,aws,mysql,vscode,github,vim" />
+
+### Domains of Expertise
+
+<img src="https://img.shields.io/badge/🔐_Cybersecurity-Expert-00F7F7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-Proficient-00F7F7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/🌐_Open_Source-Contributor-00F7F7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/🧩_Problem_Solving-Enthusiast-00F7F7?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## 📊 `$ python3 analytics.py --profile Krishna-Tripathi78`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&icon_color=00F7F7&text_color=70a5fd&border_radius=10" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&text_color=70a5fd&border_radius=10" width="49.5%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Tripathi78&theme=tokyonight" width="99%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Tripathi78&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00F7F7&line=00F7F7&point=70a5fd&area=true&radius=10" width="99%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## 🚀 `$ ls -la ~/featured-projects`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+</div>
+
+### ❤️ Featured Project
+
+<div align="center">
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│                    ⭐ SPOTLIGHT PROJECT ⭐                    │
+├──────────────────────────────────────────────────────────────┤
+│  ❤️ KrivyX - Next-Gen Music Streaming App                   │
+│  🎵 Modern UI | Real-time Playback | Cross-platform          │
+│  🚀 Tech: Advanced Music APIs & Beautiful Interface          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF1744&icon_color=FF1744&text_color=70a5fd&border_radius=10" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+
+</div>
+
+---
+
+### 🛠️ Other Notable Projects
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+
+**🎥 YOLOv8 Object Detection**
 
 <a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&icon_color=00F7F7&text_color=70a5fd&border_radius=10" />
 </a>
 
-</td>
-
-<td align="center" width="50%">
-
-```bash
-┌─[project]─[🎵 NLP]
-├─ MoodMelody
-├─ Sentiment Analysis
-├─ Music Recommender
-└─ Status: ✓ Complete
 ```
+Real-time computer vision
+Powered by YOLOv8 algorithm
+Fast & accurate detection
+```
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+
+**🎵 MoodMelody**
 
 <a href="https://github.com/Krishna-Tripathi78/MoodMelody">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&icon_color=00F7F7&text_color=70a5fd&border_radius=10" />
 </a>
 
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="50%">
-
-```bash
-┌─[project]─[📧 Voice AI]
-├─ Email Assistant
-├─ Speech Recognition
-├─ Automation
-└─ Status: ✓ Complete
 ```
+NLP-powered chatbot
+Sentiment analysis engine
+Personalized recommendations
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+
+**📧 Voice Email Assistant**
 
 <a href="https://github.com/Krishna-Tripathi78/Voice-Controlled-Email-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=Voice-Controlled-Email-Assistant&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=Voice-Controlled-Email-Assistant&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&icon_color=00F7F7&text_color=70a5fd&border_radius=10" />
 </a>
 
-</td>
-
-<td align="center" width="50%">
-
-```bash
-┌─[project]─[📱 IoT]
-├─ PhoneSteer
-├─ Motion Control
-├─ PC Navigation
-└─ Status: ✓ Complete
+```
+Speech recognition AI
+Hands-free email management
+Smart automation
 ```
 
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
+
+**📱 PhoneSteer**
+
 <a href="https://github.com/Krishna-Tripathi78/PhoneSteer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=PhoneSteer&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=PhoneSteer&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F7F7&icon_color=00F7F7&text_color=70a5fd&border_radius=10" />
 </a>
 
-</td>
+```
+Motion-based control
+Smartphone → PC interface
+Innovative navigation
+```
 
+</td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## 🏆 `$ cat achievements.log`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257481-0aafef48-8a50-4162-b263-7164846fa712.gif" width="100">
+
+</div>
+
 ```bash
-[✓] Projects loaded: 5/5
-[✓] Build status: All systems operational
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌─[achievements@krishna]─[~]
+└──╼ $ tail -f achievements.log
+
+[2024] ✅ FOSS United Kanpur - Core Member
+[2024] ✅ HackerRank Certified Problem Solver
+[2024] ✅ Naukri Campus Ambassador
+[2024] ✅ 365+ Days GitHub Contribution Streak
+[2024] ✅ 5+ Featured Open Source Projects
+[2024] ✅ DevOps & Cloud Computing Enthusiast
+[2024] ✅ Cybersecurity Researcher & Practitioner
+[2024] ✅ Active Open Source Contributor
 ```
 
----
+<div align="center">
 
-## 🏆 ACHIEVEMENTS --list
+<a href="https://www.hackerrank.com/profile/krishnatripathi9">
+  <img src="https://img.shields.io/badge/🎖️_HackerRank-Certified-2EC866?style=for-the-badge&labelColor=1a1b27&logo=hackerrank&logoColor=2EC866" />
+</a>
+<a href="https://naukri.com/campus/certificates/participation/v0/6862313ca208d8335f5f6f86">
+  <img src="https://img.shields.io/badge/🏅_Naukri-Ambassador-4A90E2?style=for-the-badge&labelColor=1a1b27&logo=naukri&logoColor=4A90E2" />
+</a>
+<a href="https://fossunited.org/kanpur">
+  <img src="https://img.shields.io/badge/🐧_FOSS_United-Core_Member-FCC624?style=for-the-badge&labelColor=1a1b27&logo=linux&logoColor=FCC624" />
+</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krishna-Tripathi78&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+## 🌐 `$ ./connect.sh`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257464-5c9b3a2e-e5c4-4aa4-8c22-bddf283ce4cf.gif" width="100">
 
 ```bash
-┌──(krishna㉿achievements)-[~/badges]
-└─$ cat achievements.log
-
-[2024-12-24 23:59:59] Loading certifications...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✓ FOSS United Kanpur - Core Member
-✓ HackerRank Problem Solver
-✓ Naukri Campus Ambassador Certified
-✓ Open Source Contributor
-✓ 365+ Days Contribution Streak
-✓ Multiple Featured Projects
-✓ DevOps & Cloud Enthusiast
-✓ Cybersecurity Researcher
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[*] Initializing connection protocols...
+[*] Social bridges: ACTIVE
+[*] Ready for collaboration
 ```
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/krishnatripathi9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00FF41?style=for-the-badge&logo=HackerRank&logoColor=0D1117" />
-  </a>
-  <a href="https://naukri.com/campus/certificates/participation/v0/6862313ca208d8335f5f6f86" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri_Certified-00FF41?style=for-the-badge&logo=naukri&logoColor=0D1117" />
-  </a>
-  <a href="https://fossunited.org/kanpur" target="_blank">
-    <img src="https://img.shields.io/badge/FOSS_United-00FF41?style=for-the-badge&logo=linux&logoColor=0D1117" />
-  </a>
-</p>
+<a href="https://x.com/KrishnaTri37551">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.linkedin.com/in/krishna-tripathi-9aa494303">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://github.com/Krishna-Tripathi78">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.hackerrank.com/profile/krishnatripathi9">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b27" />
+</a>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## 🌐 CONNECT --social-links
+</div>
 
-```bash
-┌──(krishna㉿networking)-[~/social]
-└─$ cat connect.sh
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-#!/bin/bash
+<div align="center">
 
-echo "Establishing connections..."
+## 💭 `$ fortune | cowsay`
+
+```
+ _________________________________________
+/ "Driven by curiosity, grounded in     \
+| code, and guided by security."        |
+|                                       |
+| - Krishna Tripathi                    |
+\ Building tomorrow's secure systems    /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 
-<p align="center">
-  <a href="https://x.com/KrishnaTri37551" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF41"/>
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-tripathi-9aa494303" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-  <a href="https://github.com/Krishna-Tripathi78" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/krishnatripathi9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00FF41"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00F7F7&style=for-the-badge&labelColor=1a1b27" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+</div>
 
 ```bash
-[✓] Connection established successfully
-[✓] All social links active
-[✓] Ready for collaboration
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+┌─[krishna@terminal]─[~]
+└──╼ $ exit
 
----
-
-## 📈 CONTRIBUTION_GRAPH
-
-```bash
-┌──(krishna㉿contributions)-[~/activity]
-└─$ git log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s'
-```
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Tripathi78&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-```bash
-[✓] Activity graph rendered
-[✓] Contributions: Green across the board
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 💭 SYSTEM_MESSAGE
-
-```bash
-┌──(krishna㉿terminal)-[~]
-└─$ echo $MOTTO
-
-"Driven by curiosity, grounded in code, and guided by security."
-
-┌──(krishna㉿terminal)-[~]
-└─$ uptime
-  System running smoothly | Load: Heavy development | Status: Always learning
-
-┌──(krishna㉿terminal)-[~]
-└─$ logout
-
-[*] Thanks for visiting my profile!
-[*] Feel free to connect or collaborate
+[*] Session ended
+[*] Thanks for visiting! Feel free to connect 🚀
 [*] Stay curious, stay secure 🔐
 
-Connection to github.com closed.
+logout
 ```
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00FF41&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%" />
-</p>
+</div>
