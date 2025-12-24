@@ -1,247 +1,617 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00AA00,100:005500&height=200&section=header&text=Krishna%20Tripathi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20DevOps%20Enthusiast%20|%20Open%20Source%20Builder&descAlignY=55&descSize=18"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krishna Tripathi - GitHub Profile Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Tripathi;Cybersecurity+Engineer+%F0%9F%94%92;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Breaking+Systems+to+Secure+Them+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</p>
+        body {
+            background: #0d1117;
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+        }
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
-</p>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
----
+        /* Animated Header */
+        .header {
+            background: linear-gradient(135deg, #00ff00 0%, #00aa00 50%, #005500 100%);
+            padding: 60px 20px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            position: relative;
+            overflow: hidden;
+        }
 
-## 🟢 TERMINAL IDENTITY
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            animation: wave 3s linear infinite;
+        }
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
 
-```bash
-$ whoami
------------------------------------
-Name        : Krishna Tripathi
-Location    : Kanpur, India
-Education   : B.Tech CS (Cyber Security)
-University  : AKTU
-Community   : FOSS United Kanpur (Core)
-Focus       : Security • DevOps • Cloud
-Status      : Always Learning 🚀
------------------------------------
-```
+        .header h1 {
+            font-size: 48px;
+            color: white;
+            position: relative;
+            z-index: 1;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
 
-<br clear="right"/>
+        .header p {
+            font-size: 18px;
+            color: #f0f0f0;
+            margin-top: 10px;
+            position: relative;
+            z-index: 1;
+        }
 
----
+        /* Typing Animation */
+        .typing-container {
+            text-align: center;
+            margin: 30px 0;
+            min-height: 60px;
+        }
 
-## 🟢 CURRENT OPERATIONS
+        .typing-text {
+            font-size: 24px;
+            color: #00ff00;
+            font-family: 'Courier New', monospace;
+            border-right: 3px solid #00ff00;
+            padding-right: 5px;
+            animation: blink 0.7s infinite;
+        }
 
-```yaml
-current_work:
-  - name: "KrivyX"
-    type: "Next-Gen Music Streaming Platform"
-    role: "Full Stack Developer"
+        @keyframes blink {
+            0%, 50% { border-color: #00ff00; }
+            51%, 100% { border-color: transparent; }
+        }
 
-learning:
-  - "Advanced DevOps & Cloud Security"
-  - "Kubernetes & Container Orchestration"
-  - "Penetration Testing & Red Teaming"
+        /* Section Styles */
+        .section {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
 
-ask_me_about:
-  - Python | Linux | Docker | AWS
-  - Cybersecurity | DevOps | Cloud
+        .section-title {
+            color: #00ff00;
+            font-size: 28px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
 
-contact:
-  email: "krishnatripathi9@gmail.com"
-  
-fun_fact: "I break systems to secure them 🛡️😄"
-```
+        .section-title::before {
+            content: '🟢';
+            font-size: 20px;
+        }
 
----
+        /* Terminal Style */
+        .terminal {
+            background: #000;
+            border: 2px solid #00ff00;
+            border-radius: 8px;
+            padding: 20px;
+            font-family: 'Courier New', monospace;
+            color: #00ff00;
+            margin: 20px 0;
+        }
 
-## 🟢 CONNECT WITH ME
+        .terminal-line {
+            margin: 5px 0;
+        }
 
-<p align="left">
-  <a href="https://linkedin.com/in/krishna-tripathi-9aa494303" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Krishna-Tripathi78" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/KrishnaTri37551" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/krishnatripathi9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+        .terminal-prompt {
+            color: #00ff00;
+            font-weight: bold;
+        }
 
----
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
 
-## 🟢 TECH STACK
+        .stat-card {
+            background: linear-gradient(135deg, #1a1b27 0%, #2d2f3e 100%);
+            border: 2px solid #00ff00;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.3);
+        }
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        .stat-number {
+            font-size: 48px;
+            color: #00ff00;
+            font-weight: bold;
+            margin: 10px 0;
+        }
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+        .stat-label {
+            color: #8b949e;
+            font-size: 16px;
+        }
 
-### Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+        /* Tech Stack */
+        .tech-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 20px 0;
+        }
 
----
+        .tech-badge {
+            background: #1a1b27;
+            border: 2px solid #00ff00;
+            border-radius: 20px;
+            padding: 10px 20px;
+            color: #00ff00;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
 
-## 🟢 GITHUB STATS
+        .tech-badge:hover {
+            background: #00ff00;
+            color: #000;
+            transform: scale(1.1);
+        }
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
+        /* Projects */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
 
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Krishna-Tripathi78&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
-</div>
+        .project-card {
+            background: #1a1b27;
+            border: 2px solid #30363d;
+            border-radius: 10px;
+            padding: 25px;
+            transition: all 0.3s ease;
+        }
 
----
+        .project-card:hover {
+            border-color: #00ff00;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.2);
+        }
 
-## 🟢 CONTRIBUTION STREAK
+        .project-title {
+            color: #00ff00;
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
 
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats"/>
-</div>
+        .project-desc {
+            color: #8b949e;
+            margin-bottom: 15px;
+        }
 
----
+        .project-tech {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
 
-## 🟢 CONTRIBUTION GRAPH
+        .tech-tag {
+            background: #00ff00;
+            color: #000;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            font-weight: bold;
+        }
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Tripathi78&theme=tokyonight" alt="Krishna's Contribution Graph"/>
-</p>
+        /* Contribution Graph */
+        .contribution-graph {
+            margin: 20px 0;
+        }
 
----
+        .graph-container {
+            display: grid;
+            grid-template-columns: repeat(53, 1fr);
+            gap: 3px;
+            margin-top: 20px;
+        }
 
-## 🟢 FEATURED PROJECTS
+        .graph-cell {
+            aspect-ratio: 1;
+            border-radius: 2px;
+            background: #161b22;
+            transition: all 0.3s ease;
+        }
 
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🎵 KrivyX - Music Streaming</h3>
-<div align="center">  
-<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="KrivyX"/>
-</a>
-<p><strong>Tech:</strong> Python, Flask, React, PostgreSQL</p>
-<p>Next-generation music streaming platform with AI-powered recommendations</p>
-</div>
-</td>
+        .graph-cell.active-1 { background: #003300; }
+        .graph-cell.active-2 { background: #006600; }
+        .graph-cell.active-3 { background: #009900; }
+        .graph-cell.active-4 { background: #00ff00; }
 
-<td width="50%">
-<h3 align="center">🔍 YOLOv8 Object Detection</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="YOLOv8"/>
-</a>
-<p><strong>Tech:</strong> Python, YOLOv8, OpenCV, TensorFlow</p>
-<p>Real-time object detection system using YOLOv8</p>
-</div>
-</td>
-</tr>
+        /* Achievements */
+        .achievements {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
 
-<tr>
-<td width="50%">
-<h3 align="center">🎭 MoodMelody</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78/MoodMelody" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="MoodMelody"/>
-</a>
-<p><strong>Tech:</strong> Python, ML, Spotify API</p>
-<p>Music recommendation based on mood detection</p>
-</div>
-</td>
+        .achievement-card {
+            background: linear-gradient(135deg, #1a1b27 0%, #2d2f3e 100%);
+            border-left: 4px solid #00ff00;
+            padding: 20px;
+            border-radius: 8px;
+        }
 
-<td width="50%">
-<h3 align="center">🚀 More Projects</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=5865f2" alt="View All"/>
-</a>
-<br><br>
-<p>Explore all my open source projects and contributions</p>
-<p><strong>15+ Public Repositories</strong></p>
-</div>
-</td>
-</tr>
-</table>
+        .achievement-icon {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
 
-</div>
+        .achievement-title {
+            color: #00ff00;
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
 
----
+        .achievement-desc {
+            color: #8b949e;
+            font-size: 14px;
+        }
 
-## 🟢 ACHIEVEMENTS & RECOGNITION
+        /* Contact Links */
+        .contact-links {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 30px 0;
+        }
 
-<div align="center">
+        .contact-btn {
+            background: #1a1b27;
+            border: 2px solid #00ff00;
+            color: #00ff00;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+        }
 
-| 🏆 **Community** | 🎓 **Certifications** | 💻 **Open Source** |
-|:---:|:---:|:---:|
-| Core Member - FOSS United Kanpur | Google Arcade 2024 Finisher | Active Contributor |
-| Lead Designer - FOSS Kanpur 2025 | Cybersecurity Researcher | Multiple Projects |
+        .contact-btn:hover {
+            background: #00ff00;
+            color: #000;
+            transform: scale(1.05);
+        }
 
-</div>
+        /* Profile Views Counter */
+        .profile-views {
+            text-align: center;
+            margin: 20px 0;
+            color: #00ff00;
+            font-size: 14px;
+        }
 
----
+        @media (max-width: 768px) {
+            .header h1 { font-size: 32px; }
+            .typing-text { font-size: 18px; }
+            .section-title { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Animated Header -->
+        <div class="header">
+            <h1>👋 Krishna Tripathi</h1>
+            <p>Cybersecurity Engineer | DevOps Enthusiast | Open Source Builder</p>
+        </div>
 
-## 🟢 TROPHY CASE
+        <div class="profile-views">👁️ Profile Views: 1,247</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-Tripathi78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
+        <!-- Typing Animation -->
+        <div class="typing-container">
+            <div class="typing-text" id="typingText"></div>
+        </div>
 
----
+        <!-- Terminal Identity -->
+        <div class="section">
+            <h2 class="section-title">TERMINAL IDENTITY</h2>
+            <div class="terminal">
+                <div class="terminal-line"><span class="terminal-prompt">krishna@github:~$</span> whoami</div>
+                <div class="terminal-line">-----------------------------------</div>
+                <div class="terminal-line">Name        : Krishna Tripathi</div>
+                <div class="terminal-line">Location    : Kanpur, India</div>
+                <div class="terminal-line">Education   : B.Tech CS (Cyber Security)</div>
+                <div class="terminal-line">University  : AKTU</div>
+                <div class="terminal-line">Community   : FOSS United Kanpur (Core)</div>
+                <div class="terminal-line">Focus       : Security • DevOps • Cloud</div>
+                <div class="terminal-line">Status      : Always Learning 🚀</div>
+                <div class="terminal-line">-----------------------------------</div>
+            </div>
+        </div>
 
-## 🟢 CODING METRICS
+        <!-- GitHub Stats -->
+        <div class="section">
+            <h2 class="section-title">GITHUB STATS</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-label">Total Contributions</div>
+                    <div class="stat-number">155</div>
+                    <div class="stat-label">in 2025</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Public Repositories</div>
+                    <div class="stat-number">15</div>
+                    <div class="stat-label">Projects</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Contribution Streak</div>
+                    <div class="stat-number">🔥 24</div>
+                    <div class="stat-label">Days</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Languages</div>
+                    <div class="stat-number">8+</div>
+                    <div class="stat-label">Technologies</div>
+                </div>
+            </div>
+        </div>
 
-<div align="center">
+        <!-- Contribution Graph -->
+        <div class="section">
+            <h2 class="section-title">CONTRIBUTION ACTIVITY</h2>
+            <div class="contribution-graph">
+                <p style="text-align: center; color: #8b949e;">155 contributions in the last year</p>
+                <div class="graph-container" id="contributionGraph"></div>
+            </div>
+        </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishna-Tripathi78&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishna-Tripathi78&theme=tokyonight"/>
+        <!-- Tech Stack -->
+        <div class="section">
+            <h2 class="section-title">TECH STACK</h2>
+            <h3 style="color: #00ff00; margin: 20px 0 10px 0;">Languages</h3>
+            <div class="tech-grid">
+                <div class="tech-badge">🐍 Python</div>
+                <div class="tech-badge">C</div>
+                <div class="tech-badge">C++</div>
+                <div class="tech-badge">💻 Bash</div>
+            </div>
 
-</div>
+            <h3 style="color: #00ff00; margin: 20px 0 10px 0;">DevOps & Cloud</h3>
+            <div class="tech-grid">
+                <div class="tech-badge">🐳 Docker</div>
+                <div class="tech-badge">☁️ AWS</div>
+                <div class="tech-badge">🐧 Linux</div>
+                <div class="tech-badge">📦 Git</div>
+            </div>
 
----
+            <h3 style="color: #00ff00; margin: 20px 0 10px 0;">Databases</h3>
+            <div class="tech-grid">
+                <div class="tech-badge">🐘 PostgreSQL</div>
+                <div class="tech-badge">🐬 MySQL</div>
+                <div class="tech-badge">🍃 MongoDB</div>
+                <div class="tech-badge">⚡ Redis</div>
+            </div>
 
-<div align="center">
+            <h3 style="color: #00ff00; margin: 20px 0 10px 0;">Frameworks</h3>
+            <div class="tech-grid">
+                <div class="tech-badge">Flask</div>
+                <div class="tech-badge">FastAPI</div>
+                <div class="tech-badge">⚛️ React</div>
+                <div class="tech-badge">Node.js</div>
+            </div>
+        </div>
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+        <!-- Featured Projects -->
+        <div class="section">
+            <h2 class="section-title">FEATURED PROJECTS</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-title">🎵 KrivyX - Music Streaming</div>
+                    <div class="project-desc">Next-generation music streaming platform with AI-powered recommendations and seamless user experience.</div>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Flask</span>
+                        <span class="tech-tag">React</span>
+                        <span class="tech-tag">PostgreSQL</span>
+                    </div>
+                </div>
 
-</div>
+                <div class="project-card">
+                    <div class="project-title">🔍 YOLOv8 Object Detection</div>
+                    <div class="project-desc">Real-time object detection system using YOLOv8 with high accuracy and performance optimization.</div>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">YOLOv8</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">TensorFlow</span>
+                    </div>
+                </div>
 
----
+                <div class="project-card">
+                    <div class="project-title">🎭 MoodMelody</div>
+                    <div class="project-desc">Music recommendation system based on mood detection using machine learning algorithms.</div>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">ML</span>
+                        <span class="tech-tag">Spotify API</span>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
-</p>
+        <!-- Achievements -->
+        <div class="section">
+            <h2 class="section-title">ACHIEVEMENTS & RECOGNITION</h2>
+            <div class="achievements">
+                <div class="achievement-card">
+                    <div class="achievement-icon">🏆</div>
+                    <div class="achievement-title">Core Member</div>
+                    <div class="achievement-desc">FOSS United Kanpur</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-icon">🎨</div>
+                    <div class="achievement-title">Lead Designer</div>
+                    <div class="achievement-desc">FOSS Kanpur 2025</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-icon">✅</div>
+                    <div class="achievement-title">Google Arcade 2024</div>
+                    <div class="achievement-desc">Finisher Badge</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-icon">💻</div>
+                    <div class="achievement-title">Open Source</div>
+                    <div class="achievement-desc">Active Contributor</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-icon">🔒</div>
+                    <div class="achievement-title">Cybersecurity</div>
+                    <div class="achievement-desc">Security Researcher</div>
+                </div>
+            </div>
+        </div>
 
-<h3 align="center">
-  <i>"Hack. Secure. Automate. Repeat."</i> 🔒🚀
-</h3>
+        <!-- Contact Links -->
+        <div class="section">
+            <h2 class="section-title">CONNECT WITH ME</h2>
+            <div class="contact-links">
+                <a href="https://linkedin.com/in/krishna-tripathi-9aa494303" class="contact-btn" target="_blank">
+                    💼 LinkedIn
+                </a>
+                <a href="https://github.com/Krishna-Tripathi78" class="contact-btn" target="_blank">
+                    🐙 GitHub
+                </a>
+                <a href="https://x.com/KrishnaTri37551" class="contact-btn" target="_blank">
+                    🐦 Twitter
+                </a>
+                <a href="https://www.hackerrank.com/profile/krishnatripathi9" class="contact-btn" target="_blank">
+                    💡 HackerRank
+                </a>
+                <a href="mailto:krishnatripathi9@gmail.com" class="contact-btn">
+                    📧 Email
+                </a>
+            </div>
+        </div>
 
-<p align="center">
-  Made with 💚 by Krishna Tripathi
-</p>
+        <!-- Footer -->
+        <div style="text-align: center; margin: 40px 0; color: #8b949e;">
+            <p style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 18px;">
+                "Hack. Secure. Automate. Repeat." 🔒🚀
+            </p>
+            <p style="margin-top: 20px;">Made with 💚 by Krishna Tripathi</p>
+        </div>
+    </div>
+
+    <script>
+        // Typing Animation
+        const texts = [
+            "Hi 👋, I'm Krishna Tripathi",
+            "Cybersecurity Engineer 🔒",
+            "DevOps Enthusiast ☁️",
+            "Open Source Contributor 💻",
+            "Breaking Systems to Secure Them 🛡️"
+        ];
+        let textIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        const typingElement = document.getElementById('typingText');
+
+        function type() {
+            const currentText = texts[textIndex];
+            
+            if (isDeleting) {
+                typingElement.textContent = currentText.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typingElement.textContent = currentText.substring(0, charIndex + 1);
+                charIndex++;
+            }
+
+            if (!isDeleting && charIndex === currentText.length) {
+                setTimeout(() => isDeleting = true, 2000);
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                textIndex = (textIndex + 1) % texts.length;
+            }
+
+            const speed = isDeleting ? 50 : 100;
+            setTimeout(type, speed);
+        }
+
+        type();
+
+        // Generate Contribution Graph
+        const graphContainer = document.getElementById('contributionGraph');
+        const totalCells = 371; // 53 weeks * 7 days
+        
+        for (let i = 0; i < totalCells; i++) {
+            const cell = document.createElement('div');
+            cell.className = 'graph-cell';
+            
+            // Randomly assign activity levels
+            const random = Math.random();
+            if (random > 0.7) cell.classList.add('active-4');
+            else if (random > 0.5) cell.classList.add('active-3');
+            else if (random > 0.3) cell.classList.add('active-2');
+            else if (random > 0.15) cell.classList.add('active-1');
+            
+            graphContainer.appendChild(cell);
+        }
+
+        // Animate stats on scroll
+        const statNumbers = document.querySelectorAll('.stat-number');
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animation = 'none';
+                    setTimeout(() => {
+                        entry.target.style.animation = 'pulse 1s ease-in-out';
+                    }, 10);
+                }
+            });
+        });
+
+        statNumbers.forEach(stat => observer.observe(stat));
+    </script>
+</body>
+</html>
