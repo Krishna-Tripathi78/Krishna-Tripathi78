@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Krishna%20Tripathi&fontSize=50&fontColor=00FF00&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Krishna%20Tripathi&fontSize=50&fontColor=00FF00&animation=twinkling"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
@@ -107,8 +107,11 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" width="49%" alt="Top Languages"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -116,15 +119,15 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 CONTRIBUTION STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishna-Tripathi78&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true" alt="Krishna's Streak"/>
 </p>
 
 ---
 
-## 🟢 CONTRIBUTION ACTIVITY
+## 🟢 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Tripathi78&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Tripathi78&theme=tokyonight" alt="Krishna's Contribution Graph"/>
 </p>
 
 ---
@@ -133,14 +136,17 @@ fun_fact: "I break systems to secure them 🛡️😄"
 
 <div align="center">
 
-### 🎵 KrivyX - Music Streaming Platform
-[![KrivyX](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)](https://github.com/Krishna-Tripathi78/KrivyX---Music-App)
+<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🔍 YOLOv8 Real-time Object Detection
-[![YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)](https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection)
+<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🎭 MoodMelody
-[![MoodMelody](https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)](https://github.com/Krishna-Tripathi78/MoodMelody)
+<a href="https://github.com/Krishna-Tripathi78/MoodMelody">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -148,59 +154,53 @@ fun_fact: "I break systems to secure them 🛡️😄"
 
 ## 🟢 ACHIEVEMENTS & RECOGNITION
 
-```python
-achievements = {
-    "Community": [
-        "🏆 Core Member - FOSS United Kanpur",
-        "🎨 Lead Graphic Designer - FOSS Kanpur 2025"
-    ],
-    "Certifications": [
-        "✅ Google Arcade 2024 Finisher"
-    ],
-    "Contributions": [
-        "💻 Open Source Contributor",
-        "🔒 Cybersecurity Researcher"
-    ]
-}
-```
+<div align="center">
+
+| 🏆 **Community** | 🎓 **Certifications** | 💻 **Open Source** |
+|:---:|:---:|:---:|
+| Core Member - FOSS United Kanpur | Google Arcade 2024 Finisher | Active Contributor |
+| Lead Designer - FOSS Kanpur 2025 | Cybersecurity Researcher | Multiple Projects |
+
+</div>
 
 ---
 
-## 🟢 CODING ACTIVITY
+## 🟢 TROPHY CASE
 
-<!--START_SECTION:waka-->
-```text
-Python     ████████████████░░░░░   75.2%
-Bash       ███░░░░░░░░░░░░░░░░░░   12.3%
-YAML       ██░░░░░░░░░░░░░░░░░░░    8.1%
-Other      █░░░░░░░░░░░░░░░░░░░░    4.4%
-```
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-Tripathi78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+</p>
 
 ---
 
-## 🟢 LATEST BLOG POSTS
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🟢 CODING METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishna-Tripathi78&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishna-Tripathi78&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Krishna-Tripathi78/Krishna-Tripathi78/output/github-contribution-grid-snake-dark.svg)
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
 </p>
 
 <h3 align="center">
   <i>"Hack. Secure. Automate. Repeat."</i> 🔒🚀
 </h3>
+
+<p align="center">
+  Made with 💚 by Krishna Tripathi
+</p>
