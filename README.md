@@ -1,12 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00AA00,100:005500&height=200&section=header&text=Krishna%20Tripathi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20DevOps%20Enthusiast%20|%20Open%20Source%20Builder&descAlignY=55&descSize=18"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Tripathi;Cybersecurity+Engineer+%F0%9F%94%92;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Breaking+Systems+to+Secure+Them+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
 </p>
+
+---
 
 ## 🟢 TERMINAL IDENTITY
 
@@ -104,20 +108,21 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 GITHUB STATS
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Krishna-Tripathi78&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
 </div>
 
 ---
 
 ## 🟢 CONTRIBUTION STREAK
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true" alt="Krishna's Streak"/>
-</p>
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
@@ -132,18 +137,57 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 FEATURED PROJECTS
 
 <div align="center">
-
-<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true" />
+  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎵 KrivyX - Music Streaming</h3>
+<div align="center">  
+<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="KrivyX"/>
 </a>
+<p><strong>Tech:</strong> Python, Flask, React, PostgreSQL</p>
+<p>Next-generation music streaming platform with AI-powered recommendations</p>
+</div>
+</td>
 
-<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true" />
+<td width="50%">
+<h3 align="center">🔍 YOLOv8 Object Detection</h3>
+<div align="center">
+<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="YOLOv8"/>
 </a>
+<p><strong>Tech:</strong> Python, YOLOv8, OpenCV, TensorFlow</p>
+<p>Real-time object detection system using YOLOv8</p>
+</div>
+</td>
+</tr>
 
-<a href="https://github.com/Krishna-Tripathi78/MoodMelody">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true" />
+<tr>
+<td width="50%">
+<h3 align="center">🎭 MoodMelody</h3>
+<div align="center">
+<a href="https://github.com/Krishna-Tripathi78/MoodMelody" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="MoodMelody"/>
 </a>
+<p><strong>Tech:</strong> Python, ML, Spotify API</p>
+<p>Music recommendation based on mood detection</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🚀 More Projects</h3>
+<div align="center">
+<a href="https://github.com/Krishna-Tripathi78?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=5865f2" alt="View All"/>
+</a>
+<br><br>
+<p>Explore all my open source projects and contributions</p>
+<p><strong>15+ Public Repositories</strong></p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
