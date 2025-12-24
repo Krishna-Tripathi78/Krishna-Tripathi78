@@ -108,12 +108,8 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 GITHUB STATS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Krishna-Tripathi78&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -121,7 +117,7 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 CONTRIBUTION STREAK
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats"/>
+  <img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=Krishna-Tripathi78&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -129,7 +125,7 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishna-Tripathi78&theme=tokyonight" alt="Krishna's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Tripathi78&custom_title=Krishna's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -138,56 +134,17 @@ fun_fact: "I break systems to secure them 🛡️😄"
 
 <div align="center">
   
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🎵 KrivyX - Music Streaming</h3>
-<div align="center">  
-<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="KrivyX"/>
+<a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&theme=tokyonight&hide_border=true" alt="KrivyX"/>
 </a>
-<p><strong>Tech:</strong> Python, Flask, React, PostgreSQL</p>
-<p>Next-generation music streaming platform with AI-powered recommendations</p>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">🔍 YOLOv8 Object Detection</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="YOLOv8"/>
+<a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&theme=tokyonight&hide_border=true" alt="YOLOv8"/>
 </a>
-<p><strong>Tech:</strong> Python, YOLOv8, OpenCV, TensorFlow</p>
-<p>Real-time object detection system using YOLOv8</p>
-</div>
-</td>
-</tr>
 
-<tr>
-<td width="50%">
-<h3 align="center">🎭 MoodMelody</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78/MoodMelody" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="MoodMelody"/>
+<a href="https://github.com/Krishna-Tripathi78/MoodMelody">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&theme=tokyonight&hide_border=true" alt="MoodMelody"/>
 </a>
-<p><strong>Tech:</strong> Python, ML, Spotify API</p>
-<p>Music recommendation based on mood detection</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🚀 More Projects</h3>
-<div align="center">
-<a href="https://github.com/Krishna-Tripathi78?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=5865f2" alt="View All"/>
-</a>
-<br><br>
-<p>Explore all my open source projects and contributions</p>
-<p><strong>15+ Public Repositories</strong></p>
-</div>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -209,7 +166,7 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 TROPHY CASE
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-Tripathi78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-Tripathi78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -217,10 +174,10 @@ fun_fact: "I break systems to secure them 🛡️😄"
 ## 🟢 CODING METRICS
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishna-Tripathi78&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishna-Tripathi78&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishna-Tripathi78&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishna-Tripathi78&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishna-Tripathi78&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishna-Tripathi78&theme=tokyonight&utcOffset=5.5"/>
 </div>
 
 ---
@@ -229,6 +186,9 @@ fun_fact: "I break systems to secure them 🛡️😄"
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ✍️ Random Dev Meme
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
 
