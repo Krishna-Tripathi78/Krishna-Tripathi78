@@ -1,132 +1,85 @@
-<!-- ===================== TERMINAL GITHUB PROFILE ===================== -->
+<!-- ======================= MASTER GITHUB PROFILE ======================= -->
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ │
-│ ██╗ ██╗██████╗ ██╗███████╗██╗ ██╗███╗ ██╗ █████╗ │
-│ ██║ ██╔╝██╔══██╗██║██╔════╝██║ ██║████╗ ██║██╔══██╗ │
-│ █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║ │
-│ ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║ │
-│ ██║ ██╗██║ ██║██║███████║██║ ██║██║ ╚████║██║ ██║ │
-│ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝╚═╝ ╚═╝ │
-│ │
-│ KRISHNA TRIPATHI │
-│ │
-│ Cybersecurity Engineer | DevOps | Open Source Builder │
-│ │
-└──────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" />
+</p>
 
-yaml
-Copy code
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=krishna@github:~$+whoami;Cybersecurity+Engineer;DevOps+%7C+Cloud+%7C+Automation;Open+Source+Contributor;Always+Building+%7C+Always+Learning)
-
-</div>
+<h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
+<h3 align="center">Cybersecurity Engineer | DevOps Enthusiast | Open Source Builder</h3>
 
 ---
 
-## 🟢 SYSTEM BOOT INFO
+## 🟢 TERMINAL IDENTITY
+
+<img align="right" alt="Coding" width="420"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```bash
-krishna@github:~$ neofetch
+krishna@github:~$ whoami
 text
 Copy code
-User        : Krishna Tripathi
-OS          : Linux (Mindset)
-Kernel      : Cybersecurity + DevOps
-Shell       : Bash / Zsh
-Editor      : Vim
-Education   : B.Tech CS (Cyber Security) – AKTU
+Name        : Krishna Tripathi
 Location    : Kanpur, India
+Education   : B.Tech CS (Cyber Security) – AKTU
 Community   : FOSS United Kanpur (Core Member)
+Focus       : Cybersecurity • DevOps • Cloud
+Status      : Always Learning | Always Building
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna-Tripathi78&label=Profile%20Views&color=00FF00&style=flat-square" /> </p>
+🟢 CURRENT OPERATIONS
+🔭 Working on KrivyX – Next-Gen Music Streaming Platform
 
-Status      : Securing • Automating • Scaling
-🟢 CONTRIBUTION PROCESS
-bash
-Copy code
-krishna@github:~$ git status
-<div align="center">
+🌱 Learning Advanced DevOps & Cloud Security
 
-</div>
-🟢 INSTALLED TOOLCHAIN
-bash
-Copy code
-krishna@github:~$ ls /usr/bin
-<div align="center">
+💬 Ask me about Python, Linux, Docker, AWS, Security
 
+📫 Reach me at krishnatripathi9@gmail.com
 
+⚡ Fun fact: I break systems to secure them 😄
 
-
-
-
-
-</div>
-🟢 SYSTEM ANALYTICS
-bash
-Copy code
-krishna@github:~$ ./analyze --github
-<div align="center">
-
-
-
-</div>
+🟢 CONNECT WITH ME
+<p align="left"> <a href="https://linkedin.com/in/krishna-tripathi-9aa494303" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/> </a> <a href="https://github.com/Krishna-Tripathi78" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/> </a> <a href="https://x.com/KrishnaTri37551" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00"/> </a> <a href="https://www.hackerrank.com/profile/krishnatripathi9" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00FF00"/> </a> </p>
+🟢 LANGUAGES & TOOLS
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,docker,aws,git,github,postgres,mysql,mongodb,redis,flask,fastapi,react,nodejs&theme=dark" /> </p>
+🟢 GITHUB STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Tripathi78&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Tripathi78&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" width="48%" /> </p>
+🟢 CONTRIBUTION STREAK
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Tripathi78&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/> </p>
+🟢 ACTIVITY GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Tripathi78&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true"/> </p>
 🟢 FEATURED PROJECT
-bash
-Copy code
-krishna@github:~$ ls ~/projects --top
-text
-Copy code
-KrivyX – Next-Gen Music Streaming Platform
-• Real-time playback
-• Modern UI/UX
-• Cross-platform
-• Optimized performance
-<div align="center">
-
-</div>
-🟢 OTHER EXECUTABLES
-<div align="center">
-
-
-
-</div>
-🟢 ACHIEVEMENT LOG
-bash
-Copy code
-krishna@github:~$ cat achievements.log
+<p align="center"> <a href="https://github.com/Krishna-Tripathi78/KrivyX---Music-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=KrivyX---Music-App&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true"/> </a> </p>
+🟢 OTHER PROJECTS
+<p align="center"> <a href="https://github.com/Krishna-Tripathi78/YOLOv8-realtime-object-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=YOLOv8-realtime-object-detection&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true"/> </a> <a href="https://github.com/Krishna-Tripathi78/MoodMelody"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Tripathi78&repo=MoodMelody&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true"/> </a> </p>
+🟢 ACHIEVEMENTS
 text
 Copy code
 ✓ Core Member – FOSS United Kanpur
-✓ 365+ Day Contribution Streak
+✓ Lead Graphic Designer – FOSS Kanpur 2025
+✓ Google Arcade 2024 Finisher
 ✓ Open Source Contributor
-✓ Cybersecurity Research Projects
-✓ Hackathons & Tech Talks
-🟢 NETWORK INTERFACES
+✓ Cybersecurity Researcher
 bash
 Copy code
-krishna@github:~$ ip a
-<div align="center">
-
-
-
-</div>
-bash
-Copy code
-krishna@github:~$ echo "Driven by curiosity. Grounded in code. Guided by security."
-<div align="center">
-
-
-</div> <!-- ===================== END ===================== -->
-markdown
+krishna@github:~$ echo "Hack. Secure. Automate. Repeat."
+<!-- ======================= END ======================= -->
+yaml
 Copy code
 
 ---
 
-If you want next upgrades 😈  
-Say **one word**:
+## ✅ WHAT YOU HAVE NOW
+- Advanced **Rishav-style but better**
+- Clean, professional + hacker vibe
+- Perfect for **recruiters, GSoC, DevOps, Security**
+- 100% GitHub-compatible markdown
 
-- `matrix` → falling green code animation  
-- `elite` → even darker cyber-ops style  
-- `gsoc` → GSoC-ready profile section  
-- `security` → red-team / blue-team fantasy blocks  
+---
+
+If you want:
+- 🟢 **Matrix rain animation**
+- 🛡️ **CTF / Security labs section**
+- 🚀 **GSoC-ready profile**
+- ⚙️ **Even darker cyberpunk theme**
+
+Just tell me the word 👇  
+You’re already in the **top-tier zone** 🔥💻
