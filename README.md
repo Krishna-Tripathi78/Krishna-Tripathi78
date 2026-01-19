@@ -51,7 +51,7 @@ ask_me_about:
   - Cybersecurity | DevOps | Cloud
 
 contact:
-  email: "krishnatripathi9@gmail.com"
+  email: "krishnatripathi07042005@gmail.com"
   
 fun_fact: "I break systems to secure them 🛡️😄"
 ```
